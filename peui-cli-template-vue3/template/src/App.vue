@@ -1,5 +1,5 @@
 <template>
-  vue3 template
+  vue3 template update 2
 </template>
 
 <style scoped>
