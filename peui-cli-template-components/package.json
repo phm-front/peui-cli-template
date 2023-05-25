@@ -1,6 +1,6 @@
 {
   "name": "peui-cli-template-components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "模版组件",
   "main": "index.js",
   "scripts": {
