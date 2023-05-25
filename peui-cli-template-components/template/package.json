@@ -1,0 +1,12 @@
+{
+  "name": "<%= name %>",
+  "version": "<%= version %>",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
